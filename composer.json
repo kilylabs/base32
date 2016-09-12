@@ -1,12 +1,12 @@
 {
-    "name": "ejz/base32",
-    "description": "PHP library for Base32 encode/decode operations.",
+    "name": "kilylabs/base32",
+    "description": "PHP library for Base32 encode/decode operations. (fork from deleted ejs/base32)",
     "keywords": ["ejz", "base32", "encode", "decode"],
     "license": "WTFPL",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Ejz/Base32"
+            "url": "https://github.com/kilylabs/base32"
         }
     ],
     "authors": [
