@@ -1,0 +1,26 @@
+{
+    "name": "ejz/base32",
+    "description": "PHP library for Base32 encode/decode operations.",
+    "keywords": ["ejz", "base32", "encode", "decode"],
+    "license": "WTFPL",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Ejz/Base32"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Ejz",
+            "email": "ejz@ya.ru",
+            "homepage": "http://ejz.ru/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ejz/core": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {"Ejz\\": "src/Ejz"}
+    }
+}
